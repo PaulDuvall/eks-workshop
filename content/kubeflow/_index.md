@@ -1,6 +1,6 @@
 ---
 title: "Machine Learning using Kubeflow"
-chapter: true
+chapter: false
 weight: 49
 draft: false
 ---

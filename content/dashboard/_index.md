@@ -1,6 +1,6 @@
 ---
 title: "Deploy the Kubernetes Dashboard"
-chapter: true
+chapter: false
 weight: 30
 ---
 

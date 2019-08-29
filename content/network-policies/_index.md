@@ -1,6 +1,6 @@
 ---
 title: "Securing Your Cluster with Network Policies"
-chapter: true
+chapter: false
 weight: 50
 ---
 

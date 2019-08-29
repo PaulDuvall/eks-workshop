@@ -1,6 +1,6 @@
 ---
 title: "Deploy the Example Microservices"
-chapter: true
+chapter: false
 weight: 31
 ---
 

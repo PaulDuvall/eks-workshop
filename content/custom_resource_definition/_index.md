@@ -1,6 +1,6 @@
 ---
 title: "Custom Resource Definition"
-chapter: true
+chapter: false
 weight: 60
 ---
 

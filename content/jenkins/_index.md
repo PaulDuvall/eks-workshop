@@ -1,6 +1,6 @@
 ---
 title: "Deploying Jenkins"
-chapter: true
+chapter: false
 weight: 45
 draft: false
 ---

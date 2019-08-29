@@ -1,6 +1,6 @@
 ---
 title: "Autoscaling our Applications and Clusters"
-chapter: true
+chapter: false
 weight: 41
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Deploy the AWS Service Operator"
-chapter: true
+chapter: false
 weight: 66
 draft: true
 ---

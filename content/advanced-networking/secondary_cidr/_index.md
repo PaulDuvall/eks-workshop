@@ -1,6 +1,6 @@
 ---
 title: "Using Secondary CIDRs with EKS"
-chapter: true
+chapter: false
 weight: 10
 ---
 

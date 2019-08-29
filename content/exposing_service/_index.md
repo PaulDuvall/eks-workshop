@@ -1,6 +1,6 @@
 ---
 title: "Exposing a Service"
-chapter: true
+chapter: false
 weight: 55
 ---
 

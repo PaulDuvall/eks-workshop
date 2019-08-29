@@ -1,6 +1,6 @@
 ---
 title: "Cleanup"
-chapter: true
+chapter: false
 weight: 70
 ---
 

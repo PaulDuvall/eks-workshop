@@ -1,6 +1,6 @@
 ---
 title: "Health Checks"
-chapter: true
+chapter: false
 weight: 40
 ---
 

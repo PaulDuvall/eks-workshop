@@ -1,6 +1,7 @@
 ---
 title: "Service Mesh with Istio"
 date: 2018-11-13T16:32:30+09:00
+chapter: false
 weight: 53
 draft: false
 ---
