@@ -1,10 +1,10 @@
 ---
-title: "Amazon EKS Workshop"
+title: "Continuous Compliance on AWS Workshop"
 chapter: true
 weight: 1
 ---
 
-<div style="text-align: center"><h2>Amazon EKS Workshop</h2></div>
+<div style="text-align: center"><h2>Continuous Compliance on AWS Workshop</h2></div>
 
 ![EKS](images/3-service-animated.gif)
 
