@@ -1,6 +1,6 @@
 ---
 title: "Helm"
-chapter: true
+chapter: false
 weight: 33
 ---
 
