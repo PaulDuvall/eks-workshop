@@ -1,6 +1,7 @@
 ---
 title: "Assigning Pods to Nodes"
 chapter: false
+draft: true
 weight: 54
 ---
 

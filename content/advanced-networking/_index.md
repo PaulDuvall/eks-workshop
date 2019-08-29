@@ -1,6 +1,7 @@
 ---
 title: "Advanced VPC Networking with EKS"
-chapter: true
+chapter: false
+draft: true
 weight: 55
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: "Launch using eksctl"
 chapter: false
+draft: true
 weight: 20
 ---
 

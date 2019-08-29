@@ -2,7 +2,7 @@
 title: "Simple Batch Workflow"
 date: 2018-11-18T00:00:00-05:00
 weight: 60
-draft: false
+draft: true
 ---
 
 ### Simple Batch Workflow
